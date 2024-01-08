@@ -1,0 +1,13 @@
+# move the terminal
+cd  (DRAG YOUR FOLDER HERE)
+
+
+# run a python script
+python3 <NAME OF THE FILE>
+
+clear the terminal with clear command
+clear 
+
+to get ouf of the python interactive consle ()
+[to create list]
+{to creat dictionary}
