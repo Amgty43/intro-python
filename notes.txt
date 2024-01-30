@@ -1,13 +1,23 @@
-# move the terminal
-cd  (DRAG YOUR FOLDER HERE)
+to run python file use
+     python3 name.py
+
+-------- One time only  ----------------------
+     
+# install a tool to create virtual environments
+python3 -m pip install virtaulenv
 
 
-# run a python script
-python3 <NAME OF THE FILE>
+# created a virtual environment
+python3 -m venv venv
 
-clear the terminal with clear command
-clear 
+----------------------------------------------
 
-to get ouf of the python interactive consle ()
-[to create list]
-{to creat dictionary}
+# activate the venv
+# Win:
+venv\Scripts\activate
+
+# Mac:
+source venv/bin/activate
+
+# install flask
+python3 -m pip install flask
